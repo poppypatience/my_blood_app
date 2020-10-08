@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mybloodapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <meta-data
+        android:name="preloaded_fonts"
+        android:resource="@array/preloaded_fonts" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".emergency"></activity>
+        <activity android:name=".drinks" />
+        <activity android:name=".meat" />
+        <activity android:name=".dryfruits" />
+        <activity android:name=".vegetables" />
+        <activity android:name=".fruits" />
+        <activity android:name=".browser1" />
+        <activity android:name=".tipsforgoodbloodcirculation" />
+        <activity android:name=".southernuganda" />
+        <activity
+            android:name=".nothernuganda"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".easternuganda"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".westernuganda"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".foodusageinstruction"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".exercisetips"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".foodusage"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".nutritioninfoods"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DonorsActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Flash"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Account"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".accountinfo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".blood_banks"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".changenumber"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".consult"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".deleteaccount"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".get_matchings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".help"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".notifications"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".privacy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".questionare"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ratings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Security"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BloodgroupActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".drivesActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".nutrition"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".login" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_key" />
+
+        <activity
+            android:name=".Home"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

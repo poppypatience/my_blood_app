@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">SAL APP</string>
+    <string name="details">A blood donation occurs when a person voluntarily has blood drawn and used
+        for transfusions
+    </string>
+    <string name="About_Us">SAL APP</string>
+    <string name="all_details">The Uganda Blood Transfusion Service (UBTS) is the National Blood Service
+        responsible for all blood transfusion and safety activities for the entire country.
+        The Uganda Blood Transfusion Service was established as an autonomous
+        institution and commissioned in January 2003 by a Board of Directors.It operates within the framework of the National health Policy and the Health Sector Strategic Plan.
+        A National policy on Blood Transfusion was developed to
+        guide the implementation of blood safety activities for the attainment of the best
+        possible technical and ethical standards.
+
+    </string>
+
+
+    <string name="direction">SAL APP</string>
+    <string name="offices">Come to our office, former
+        standard chattered bank building level 3
+
+    </string>
+
+    <string name="help">SAL APP</string>
+    <string name="website">www.salapp.com
+
+    </string>
+    <string name="title_activity_questionare">ScrollingActivity</string>
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="deleteaccount">SAL APP</string>
+    <string name="delete">deleting your account may erase your data from the system</string>
+
+    <string name="deleteaccount2">SAL APP</string>
+    <string name="delete2">change you number instead</string>
+
+
+    <string name="deleteaccount3">SAL APP</string>
+    <string name="delete3">To delete you number comfirm the process</string>
+
+    <string name="deleteaccount4">SAL APP</string>
+    <string name="delete4">follow the following process to edit your profile</string>
+
+    <string name="security">SAL APP</string>
+    <string name="security1">Show security notifications</string>
+
+    <string name="security2">SAL APP</string>
+    <string name="securityn2">Turn on this setting to receive notifictions
+        when a contacts security code has been changed</string>
+
+    <string name="tips">Improving circulation naturally</string>
+    <string name="tips1">In addition to taking vitamins and
+        supplements to boost your blood flow, you can improve
+        your body’s circulation by leading a healthy lifestyle
+        that incorporates the following:</string>
+
+    <string name="tips2">1. EXERCISE; This is among the top methods
+        for getting your blood flowing. Because
+        the heart is at the center of the body’s blood flow, it’s
+        important to have a healthy heart if you aim for optimal
+        circulation everywhere in your body.</string>
+
+
+    <string name="tip3">2. STRESS MANAGEMENT; When a patient has poor
+       blood circulation , doctors often ask them about their stress levels.
+        is because when the body experiences stress, blood
+        vessels constrict. Learning to manage your stress is a great
+        way to complement other things you are doing to improve your circulation.</string>
+
+
+    <string name="tips4">3. MASSAGE;it helps improve circulation
+        through the lymphatic and cardiovascular systems.
+        When the muscles are manipulated effectively by a
+        professional, your body releases chemicals called endorphins
+        that make you feel good. </string>
+
+
+    <string name="tips5">4.FLUID INTAKE: Blood has a very high water content.
+    Keeping your body well-hydrated is an easy way
+    to maintain or improve your circulation
+
+
+
+
+.</string>
+
+
+</resources>
+
